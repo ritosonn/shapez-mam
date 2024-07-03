@@ -9,5 +9,5 @@ mkdir build && cd build
 cmake ..
 make
 ctest
-bin/Release/Project
+bin/Release/Shapez
 ```
