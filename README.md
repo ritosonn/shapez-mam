@@ -1,4 +1,4 @@
-# Shapez MAM Analizer
+# Shapez MAM Analyzer
 
 It is not easy to create a complete automatic generator (MAM) in Shapez. The main reasons are as follows:
 
